@@ -53,7 +53,8 @@ The app collects user data across key lifestyle areas:
 - 🌐 **EC2 Instance:**
   [35.154.53.38](http://35.154.53.38)
 
--- 🌐 **S3:**
+- 🌐 **S3:**
   [http://sruja-carbon-tracker.s3-website.ap-south-1.amazonaws.com](http://sruja-carbon-tracker.s3-website.ap-south-1.amazonaws.com)
+
 
 
